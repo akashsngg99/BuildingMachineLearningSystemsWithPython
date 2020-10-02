@@ -18,7 +18,8 @@ from utils import plot_roc, plot_confusion_matrix, GENRE_LIST
 
 from ceps import read_ceps
 
-
+import pandas as pd
+import numpy as np
 genre_list = GENRE_LIST
 
 
